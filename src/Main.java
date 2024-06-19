@@ -43,6 +43,7 @@ public class Main {
         dev1.inscreverBootcamp(bootcamp);
         System.out.println("Conteudos inscritos: " + dev1.getConteudosInscritos());
         dev1.progredir();
+        dev1.progredir();
         System.out.println("------");
         System.out.println("Conteudos inscritos: " + dev1.getConteudosInscritos());
         System.out.println("Conteudos concluidos: " + dev1.getConteudosConcluidos());
